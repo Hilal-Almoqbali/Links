@@ -16,3 +16,11 @@
 15. https://www.geometrictools.com/Source/Intersection3D.html
 16. https://eater.net/quaternions
 17. https://opengameart.org/
+18.  https://github.com/JulianThijssen/GDT
+19.  https://www.redblobgames.com/articles/curved-paths/
+20.  https://github.com/kdn251/interviews
+21.  https://www.instructables.com/A-Learning-Chatterbot-in-C/
+22.  https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
+23.  http://www.librow.com/articles/article-10
+24.  https://github.com/karan/Projects
+25.  

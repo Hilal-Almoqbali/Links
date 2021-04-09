@@ -8,3 +8,11 @@
 7. https://enkimute.github.io/ganja.js/examples/coffeeshop.html#pga2d_points_and_lines
 8. https://github.com/danistefanovic/build-your-own-x
 9. http://www.falstad.com/mathphysics.html
+10. https://github.com/TheAlgorithms/C-Plus-Plus
+11. https://modernc.gforge.inria.fr/#org21daccd
+12. http://httpstat.us/
+13. https://www.officedaytime.com/simd512e/
+14. https://www.realtimerendering.com/portal.html
+15. https://www.geometrictools.com/Source/Intersection3D.html
+16. https://eater.net/quaternions
+17. https://opengameart.org/

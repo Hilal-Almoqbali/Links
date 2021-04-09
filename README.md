@@ -7,3 +7,4 @@
 6. http://www.wbricken.com/pdfs/01bm/02logic/02compare2logic/01conventional-interps.pdf
 7. https://enkimute.github.io/ganja.js/examples/coffeeshop.html#pga2d_points_and_lines
 8. https://github.com/danistefanovic/build-your-own-x
+9. http://www.falstad.com/mathphysics.html
